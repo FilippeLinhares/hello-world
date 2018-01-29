@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+My name is F. Linhares
+Trying to learn something and change my life.
